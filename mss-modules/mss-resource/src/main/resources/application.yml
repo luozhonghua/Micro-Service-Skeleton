@@ -15,7 +15,7 @@ eureka:
     lease-expiration-duration-in-seconds: 10
   client:
       service-url:
-        defaultZone: http://mss-eureka1:9010/eureka/,http://mss-eureka2:9011/eureka/
+        defaultZone: http://eureka1:9010/eureka/,http://eureka2:9011/eureka/
 endpoints:
   health:
     sensitive: false

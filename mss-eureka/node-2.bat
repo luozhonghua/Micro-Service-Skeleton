@@ -1,1 +1,1 @@
-java -jar .\target\Micro-Service-Skeleton-Register-0.0.1-SNAPSHOT.jar --spring.profiles.active=node-2
+java -jar .\target\Micro-Service-Skeleton-Register-0.0.1-SNAPSHOT.jar --spring.profiles.active=eureka2

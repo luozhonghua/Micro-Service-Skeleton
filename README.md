@@ -1,4 +1,11 @@
 # Micro-Service-Skeleton
+https://blog.csdn.net/w1054993544/article/details/78932614
+
+http://localhost:9030/uaa/oauth/token
+webApp
+webApp
+
+
 微服务开发基础框架
 
 ## 1.架构图
